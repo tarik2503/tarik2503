@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://twitter.com/tarik2529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarik2529" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarique-shaikh-ab0917174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarique-shaikh-ab0917174" height="30" width="40" /></a>
-<a align="center" href="https://instagram.com/@point_er_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="point_er_s" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCaQmZGPH0OOvwlIquEfw07w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucaqmzgph0oovwliquefw07w" height="30" width="40" /></a>
+<a align="center" href="https://instagram.com/point_er_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="point_er_s" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCaQmZGPH0OOvwlIquEfw07w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucaqmzgph0oovwliquefw07w" height="30" width="40" /></a>
 </p>
 <br>
 
