@@ -6,6 +6,10 @@
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=tarik2503&label=Profile%20views&color=0e75b6&style=flat" alt="tarik2503" /> </p>-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarik2503" alt="tarik2503" /></a> </p><br>
+<h3 align="center"> Click to know 👇👇 more about me!</h3>
+
+
+
 <div align="center">
   🔭 I’m currently working on <b><a href="https://github.com/sameer90417/Web-Project">ChitChat</a></b><br><br>
   🌱 I’m currently learning <b>JSP(Java Server Pages)</b><br><br>
