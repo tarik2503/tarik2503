@@ -7,6 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarik2503" alt="tarik2503" /></a> </p><br>
 <h3 align="center"> Click to know 👇👇 more about me!</h3>
+<p align="center">
+<a href="https:https://drive.google.com/file/d/1L8_YFpjozs-YZEbQSkFWzpI6gPYD0WpI/view?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/942/942748.png" alt="Tarik_Anwar" height="35" width="35" /></a>
+</p>
 
 
 
