@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media-exp1.licdn.com/dms/image/D4D16AQHS3QSMSvaUSg/profile-displaybackgroundimage-shrink_350_1400/0/1664579507625?e=1669852800&v=beta&t=3QyFaZcuw5BX6jaexOgIy3uIILvzU9qbpx1mGP3n0a0" /></p>
+<p align="center"> <img src="https://github.com/tarik2503/tarik2503/blob/18d0f6149e7a6c633cfb756d073f4bc397e03e2b/Margarita%20Perez%20(6).png" /></p>
 
 <h1 align="center">Hello folk 👋, I'm TARIQUE ANWAR SHAIKH</h1>
 <h3 align="center"><i>.....Exploring Tech and figuring-out new stuffs.....</i></h3>
