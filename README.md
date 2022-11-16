@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/tarik2503/tarik2503/blob/b9eeeeedee233de20bf65aff390da01e05545056/Margarita%20Perez%20(6).png" /></p>
+<p align="center"> <img src="Margarita Perez (6).png" /></p>
 
 <h1 align="center">Hello folk 👋, I'm TARIQUE ANWAR SHAIKH</h1>
 <h3 align="center"><i>.....Exploring Tech and figuring-out new stuffs.....</i></h3>
